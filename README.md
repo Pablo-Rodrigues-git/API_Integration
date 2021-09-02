@@ -6,6 +6,8 @@
 
 #### RecyclerView
 
+#### Utilizado Bumptech Glide Compiler
+
 
 
 ### 1 - Consumir uma API de uma URL predefinida
@@ -19,8 +21,6 @@
 ##### Descrição do Item
 
 ##### Quantidade disponível em estoque
-
-### 4 - Utilizado Bumptech Glide Compiler
 
 ### 
 
