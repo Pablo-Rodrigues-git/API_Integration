@@ -2,16 +2,26 @@
 
 ### Principais funções:
 
-#### Utilizado arquitetura MVVM
+#### Arquitetura MVVM
+
+#### RecyclerView
+
+
 
 ### 1 - Consumir uma API de uma URL predefinida
 
 ### 2 - Exibir Conteúdo em tempo real da URL.
 
-### 3 - Tabular os dados apresentados e gerar lista com imagem, Descrição do Item e Quantidade disponível.
+### 3 - Tabular os dados apresentados e gerar lista contendo:
+
+##### Imagem
+
+##### Descrição do Item
+
+##### Quantidade disponível em estoque
 
 ### 4 - Utilizado Bumptech Glide Compiler
 
 ### 
 
-<img src="images/appnotification.gif" width="400">
+<img src="images/API_Integration.gif" width="400">
